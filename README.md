@@ -4,7 +4,7 @@
 HPCIのベンチマークや過去のHPCI申請書などもここにまとめる。  
 
 ### [スーパーコンピュータの利用方法(一般)](https://github.com/mtbys-lab/hpc-intro)
-### [外部機器の割当トークン量(ノード時間)](https://github.com/mtbys-lab/Docs_pin_rpstry/tree/master/HPCI_Token)
+### [外部機器の割当トークン量(ノード時間)](https://github.com/mtbys-lab/hpc-intro/tree/master/Token)
 ### [HPCI-applications](https://github.com/mtbys-lab/HPCI-applications)
 
 ## 各機器の情報
