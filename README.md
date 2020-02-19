@@ -10,12 +10,12 @@ HPCIのベンチマークや過去のHPCI申請書などもここにまとめる
 
 ## 各機器の情報
 
-### [OCTOPUS](https://github.com/mtbys-lab/octopus)
-### [ITO](https://github.com/mtbys-lab/ito)
-### [Oakbridge-CX](https://github.com/mtbys-lab/Oakbridge-CX)
+### 現在利用しているもの
+#### [OCTOPUS](https://github.com/mtbys-lab/octopus)
+#### [ITO](https://github.com/mtbys-lab/ito)
+#### [Oakbridge-CX](https://github.com/mtbys-lab/Oakbridge-CX)
 
-旧
-### 
+### 以前に利用していたもの
 #### [K-computer@理研](https://github.com/mtbys-lab/K-computer)
 #### [CX400@名大](https://github.com/mtbys-lab/cx400)
 #### RCCS@分子研 (準備中)
