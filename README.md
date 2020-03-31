@@ -14,6 +14,7 @@ HPCIのベンチマークや過去のHPCI申請書などもここにまとめる
 - [OCTOPUS](https://github.com/mtbys-lab/octopus)
 - [ITO](https://github.com/mtbys-lab/ito)
 - [Oakbridge-CX](https://github.com/mtbys-lab/Oakbridge-CX)
+- [Fugaku](https://github.com/mtbys-lab/Fugaku)
 
 ### 以前に利用していたもの
 - [K-computer@理研](https://github.com/mtbys-lab/K-computer)
