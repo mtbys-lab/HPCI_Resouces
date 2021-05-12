@@ -14,12 +14,12 @@ HPCIのベンチマークや過去のHPCI申請書などもここにまとめる
 - [Grand Chariot](https://github.com/mtbys-lab/Grand-Chariot)
 - [Oakbridge-CX](https://github.com/mtbys-lab/Oakbridge-CX)
 - [RCCS](https://github.com/mtbys-lab/rccs)
+- [SQUID](https://github.com/mtbys-lab/SQUID)
 - [OCTOPUS](https://github.com/mtbys-lab/octopus)
 - [ITO](https://github.com/mtbys-lab/ito)
 - [TSUBAME]()
 - [Cygnus]()
 - [Fugaku](https://github.com/mtbys-lab/Fugaku)
-- [SQUID](https://github.com/mtbys-lab/SQUID)
 
 ### 以前に利用していたもの
 - [K-computer@理研](https://github.com/mtbys-lab/K-computer)
