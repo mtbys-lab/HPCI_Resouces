@@ -19,6 +19,7 @@ HPCIのベンチマークや過去のHPCI申請書などもここにまとめる
 - [TSUBAME]()
 - [Cygnus]()
 - [Fugaku](https://github.com/mtbys-lab/Fugaku)
+- [SQUID](https://github.com/mtbys-lab/SQUID)
 
 ### 以前に利用していたもの
 - [K-computer@理研](https://github.com/mtbys-lab/K-computer)
