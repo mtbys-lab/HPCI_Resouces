@@ -5,7 +5,7 @@ HPCIのベンチマークや過去のHPCI申請書などもここにまとめる
 
 ### [スーパーコンピュータの利用方法(一般)](https://github.com/mtbys-lab/hpc-intro/tree/master/Use)
 ### [外部機器の割当資源(Resources)](https://github.com/mtbys-lab/hpc-intro/tree/master/Resource)
-### [HPCI-applications](https://github.com/mtbys-lab/HPCI-applications)
+### [HPCI課題などの利用申請書](https://github.com/mtbys-lab/HPCI-applications)
 ### [利用申請（購入）](https://github.com/mtbys-lab/hpc-intro/tree/master/Buy)
 
 ## 各機器の情報
